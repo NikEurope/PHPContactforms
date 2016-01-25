@@ -1,0 +1,38 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//FR">
+<meta charset="UTF-8">
+
+<head>
+
+//Simple PHP contact form
+
+</head>
+
+<body>
+
+
+  <?php
+  echo $_POST['nom'];
+  ?>
+
+  <H1>CONTACT</H1>
+  </br>
+  <form action="contact.php" method="post" name="contact">
+  Pseudo:
+  <input type="nom" name="nom"><p>
+  Votre sexe:
+  <input type="radio" name="sexe" value="homme">un homme
+  <input type="radio" name="sexe" value="femme">une femme<p>
+  Votre âge:
+  <input type="checkbox" name="ville" value="mineur"> Mineur
+  <input type="checkbox" name="ville" value="majeur"> Majeur<p>
+  Votre âge exact:
+  <select name="age">
+  <option value="13">13
+  <option value="14">14
+  </select><p>
+  Votre message:<br>
+  <textarea name="message" rows="2" cols="30"></textarea><p>
+  <input type="submit" value="envoyer"></form>
+</body>
+</html>
