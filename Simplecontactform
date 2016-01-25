@@ -4,7 +4,7 @@
 
 <head>
 
-<!Simple PHP contact form>
+<!--Simple PHP contact form-->
 
 </head>
 
@@ -34,5 +34,7 @@
   Votre message:<br>
   <textarea name="message" rows="2" cols="30"></textarea><p>
   <input type="submit" value="envoyer"></form>
+
 </body>
+
 </html>
