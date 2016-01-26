@@ -3,12 +3,11 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
+ <meta charset="utf-8">
 
-    <title>FORM</title>
+ <title>FORM</title>
 
 </head>
-
 <body>
 <!-- FORM -->
 </br>
