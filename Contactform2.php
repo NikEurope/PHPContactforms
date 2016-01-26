@@ -11,15 +11,6 @@
 
 <body>
 <!-- FORM -->
-
-<form method="post" action="traitement.php">
-<p>
-        <label for="pseudo">Votre pseudo :</label>
-
-        <input type="text" name="pseudo" id="pseudo" placeholder="Ex : Zozor" size="40" maxlength="20" />
-</p>
-</form>
-<!-- FORM  2-->
 </br>
 </br>
 
