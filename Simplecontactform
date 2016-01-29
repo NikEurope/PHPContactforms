@@ -10,7 +10,6 @@
 
 <body>
 
-
   <?php
   echo $_POST['nom'];
   ?>
