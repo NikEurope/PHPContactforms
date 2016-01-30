@@ -14,8 +14,10 @@
   echo $_POST['nom'];
   ?>
 
+
   <H1>CONTACT</H1>
   </br>
+  
   <form action="contact.php" method="post" name="contact">
   Pseudo:
   <input type="nom" name="nom"><p>
